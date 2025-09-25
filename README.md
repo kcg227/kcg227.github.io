@@ -22,16 +22,19 @@ Learn more about me at my [Linkedin page](www.linkedin.com/in/kendall-gavin)
 
 
 ## Background
-#### ABC 
+#### Bethlehem, Pennsylvania, has undergone demographic changes over the past several decades. Population shifts reflect broader regional patterns in migration, economic development, and cultural diversity. Tracking racial and ethnic distribution provides insights into community needs, representation, and planning priorities. As of 2025, Bethlehem has a population of 80,034.
 
 ## Methodology
-#### ABC 
+#### Data was collected from the World Population Review Data Center. Population counts and racial/ethnic categories are consistent with U.S. Census reporting practices. Percentages were calculated as a share of the total estimated population in 2025.
 
 ## Key Findings
-#### ABC
+#### 1. The majority of Bethlehem’s population (62.32%) identifies as White
+#### 2. People identifying with two or more races (13.72%) and other races (11.29%) make up a significant portion of the city’s population, reflecting increasing diversity.
+#### 3. Black or African American residents represent 9.13% of the total population.
+#### 4. Asian residents account for 3.26%, while Native American (0.24%) and Native Hawaiian/Pacific Islander (0.04%) populations remain very small.
 
 ## Implications
-#### ABC 
+#### These demographic patterns highlight Bethlehem’s growing racial and ethnic diversity, which has implications for local governance, education, housing, healthcare access, and cultural representation. Policymakers and community leaders may use this information to guide inclusive planning and resource allocation.
 
 
 
