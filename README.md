@@ -18,6 +18,9 @@ Learn more about me at my [Linkedin page](www.linkedin.com/in/kendall-gavin)
 ### Implications
 #### The data shows that while Lehigh remains anchored in its regional connections—particularly with New Jersey and New York—it also attracts a significant share of students from across the country. The relatively small but steady international presence underscores opportunities for growth in global recruitment. These trends may guide future admissions strategies, marketing efforts, and resource allocation to ensure that the university continues to balance local commitments with national and international outreach. 
 
-![Undergraduate Enrollment by Residency](https://github.com/kcg227/kcg227.github.io/blob/main/Lehigh%20Fall%202024.png?raw=true)
+![Bethlehem Population 2025](https://github.com/kcg227/kcg227.github.io/blob/main/Race.png?raw=true)
 
-![Undergraduate Enrollment by Residency]((https://github.com/kcg227/kcg227.github.io/blob/main/Lehigh%20Fall%202024.png?raw=true)=100x20) 
+![Bethlehem Population 2025](https://github.com/kcg227/kcg227.github.io/blob/main/Race.png?raw=true=100x20) 
+
+![Bethlehem Population 2025](https://github.com/kcg227/kcg227.github.io/blob/main/Race.png?raw=true)
+
