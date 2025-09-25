@@ -22,10 +22,10 @@ Learn more about me at my [Linkedin page](www.linkedin.com/in/kendall-gavin)
 
 
 ## Background
-#### Bethlehem, Pennsylvania, has undergone demographic changes over the past several decades. Population shifts reflect broader regional patterns in migration, economic development, and cultural diversity. Tracking racial and ethnic distribution provides insights into community needs, representation, and planning priorities. As of 2025, Bethlehem has a population of 80,034.
+#### Over the past few decades, Bethlehem, Pennsylvania, has seen changes in its population. Changes in the population are a reflection of larger regional trends in economic growth, migration, and cultural diversity. Monitoring the distribution of races and ethnicities offers valuable information about planning priorities, representation, and community needs. There are 80,034 people living in Bethlehem as of 2025.
 
 ## Methodology
-#### Data was collected from the World Population Review Data Center. Population counts and racial/ethnic categories are consistent with U.S. Census reporting practices. Percentages were calculated as a share of the total estimated population in 2025.
+#### Data was collected from the World Population Review Data Center. Racial/ethnic groupings and population numbers align with the reporting guidelines of the U.S. Census. The percentages were computed as a proportion of the entire projected population in 2025.
 
 ## Key Findings
 #### 1. The majority of Bethlehem’s population (62.32%) identifies as White
@@ -34,7 +34,7 @@ Learn more about me at my [Linkedin page](www.linkedin.com/in/kendall-gavin)
 #### 4. Asian residents account for 3.26%, while Native American (0.24%) and Native Hawaiian/Pacific Islander (0.04%) populations remain very small.
 
 ## Implications
-#### These demographic patterns highlight Bethlehem’s growing racial and ethnic diversity, which has implications for local governance, education, housing, healthcare access, and cultural representation. Policymakers and community leaders may use this information to guide inclusive planning and resource allocation.
+#### These demographic trends demonstrate the increasing racial and ethnic diversity of Bethlehem, which affects housing, healthcare access, education, local government, and cultural representation. This information can be used by community leaders and policymakers to direct resource allocation and inclusive planning.
 
 
 
