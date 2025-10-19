@@ -48,6 +48,12 @@ Learn more about me at my [Linkedin page](www.linkedin.com/in/kendall-gavin)
 
 
 
+
 ## Philadelphia Eagles Super Bowl Appearances and Wins
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRz8BTaCTXg8mYR0IL2qqHkR1OSdSYelA2imzlTGr5HKp9UAI6pd8erc9hxk2hUBU_Ek2xKuam381_7&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen framebor
+
+
+## 2026 Top Colleges Ranked by Acceptance Rate – Patriot League
+
+<iframe title="Patriot League Acceptance Rates" aria-label="Bar Chart" id="datawrapper-chart-xcbGt" src="https://datawrapper.dwcdn.net/xcbGt/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="366" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
