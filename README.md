@@ -58,3 +58,6 @@ Learn more about me at my [Linkedin page](www.linkedin.com/in/kendall-gavin)
 
 <iframe title="Patriot League Acceptance Rates" aria-label="Bar Chart" id="datawrapper-chart-xcbGt" src="https://datawrapper.dwcdn.net/xcbGt/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="366" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
+## 2019 Cycling Cities 
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16crci-OVzmB6Fqm06gVu1jCtQksCdZ8&ehbc=2E312F" width="640" height="480"></iframe> 
