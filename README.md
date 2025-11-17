@@ -43,15 +43,13 @@ Learn more about me at my [Linkedin page](www.linkedin.com/in/kendall-gavin)
 
 ![Bethlehem Population 2025](https://github.com/kcg227/kcg227.github.io/blob/main/Race%20(1).png?raw=true)
 
+## Philadelphia Eagles Super Bowl Appearances and Wins
+# Here is a timeline of the Philadelphia Eagles history throughout the years. Credit: https://operations.nfl.com/learn-the-game/nfl-basics/team-histories/national-football-conference/east/philadelphia-eagles/ 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRz8BTaCTXg8mYR0IL2qqHkR1OSdSYelA2imzlTGr5HKp9UAI6pd8erc9hxk2hUBU_Ek2xKuam381_7&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
 
-
-## Philadelphia Eagles Super Bowl Appearances and Wins
-
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRz8BTaCTXg8mYR0IL2qqHkR1OSdSYelA2imzlTGr5HKp9UAI6pd8erc9hxk2hUBU_Ek2xKuam381_7&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen framebor
 
 
 ## 2026 Top Colleges Ranked by Acceptance Rate – Patriot League
